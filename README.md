@@ -15,8 +15,8 @@
 
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://iconscout.com/icon/linkedin-189" />][Linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://iconscout.com/icon/gmail-30" />][Gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
 
