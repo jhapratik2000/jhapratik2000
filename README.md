@@ -2,7 +2,7 @@
 
 
 
-# A Prefinal Year Student pusruing my undergraduate in Electrical Engineering from NIT Jamshedpur.     
+# A final Year Student pusruing my undergraduate in Electrical Engineering from NIT Jamshedpur.     
 # I am a budding FullStack Web Developer with good knowledge in Data Structures and Algorithms.
 
 - 🔭 I’m currently working on  Dino Game
